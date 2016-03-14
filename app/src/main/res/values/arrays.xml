@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs_array">
+        <item>News!</item>
+        <item>Filter</item>
+    </string-array>
+
+    <string-array name="tabs_color_array">
+        <item>#AA223344</item>
+        <item>#FF2144</item>
+        <item>#AA2244</item>
+    </string-array>
+</resources>
